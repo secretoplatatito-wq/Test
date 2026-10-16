@@ -1,0 +1,6 @@
+{
+  "name": "Super OSINT",
+  "description": "Tactical open-source intelligence framework, advanced search operator engine, investigation node ledger, EXIF metadata forensics, and AI intel analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
