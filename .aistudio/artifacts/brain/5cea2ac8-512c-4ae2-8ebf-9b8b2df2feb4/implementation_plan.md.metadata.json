@@ -1,0 +1,6 @@
+{
+  "summary": "Automated GitHub Actions CI/CD workflow to build Android Gradle into an installable APK on push, create GitHub Releases with the APK asset, and deploy a tactical GitHub Pages download site (username.github.io/repo) for direct device installation.",
+  "updatedAt": "2026-10-16T17:17:07.998780731Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
